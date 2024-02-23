@@ -48,8 +48,8 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 ---
 
 <p align="center" width="100%">
-<img src="./.image/coordinate1.png" width="30%">
-<img src="./.image/coordinate2.png)" width="30%">
+    <img src=".image/coordinate1.png" width="50%" style="margin-right: 30px;">
+    <img src=".image/coordinate2.png" width="50%" style="margin-left: 30px;">
 </p>
 
 라이다를 이미지에 투영 시키는 것이 목적이다.
@@ -65,8 +65,10 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 카메라의 내부 파라미터를 구하는 방법은 많이 알려져 있다.
 OpenCV와 Checkerboard를 이용해서 구하는 방법을 코드로 작성하였다.
 
-![before_Checkerboard](./.image/calibration_before.jpg)
-![after_Checkerboard](./.image/calibration_after.png)
+<p align="center" width="100%">
+    <img src=".image/calibration_before.jpg" width="40%" style="margin-right: 30px;">
+    <img src=".image/calibration_after.png" width="40%" style="margin-left: 30px;">
+</p>
 
 checkerboard를 이용해서 calibration한 결과를 시각화 한 사진
 
