@@ -1,5 +1,6 @@
 # rplidar_camera_calibration
 
+<<<<<<< HEAD
 ---
 
 2D LiDAR와 Camera calibration을 진행한 코드입니다.
@@ -101,3 +102,9 @@ Kaggle을 이용해서 yolov8을 학습시키는 사진
 1. https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration
 2. https://medium.com/@shashankag14/lidar-camera-fusion-a-short-guide-34115a3055da
 3. https://www.youtube.com/watch?v=XRmdUfkIu08&t=66s
+=======
+2D Lidar와 camera를 sensor fusion한 코드입니다.
+cv2.solvepnp를 이용하였습니다.
+
+코드와 README 파일을 수정해서 다시 올리도록 하겠습니다.
+>>>>>>> 80c59a581d9d379f0572553989c4dc36b28e58cc
