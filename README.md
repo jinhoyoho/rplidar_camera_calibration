@@ -15,8 +15,8 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 ---
 
 <p align="center" width="100%">
-<img src="./.image/RealsenseCamera.jpg" width="30%">
-<img src="./.image/RPLidar.jpg)" width="30%">
+    <img src=".image/RealsenseCamera.jpg" width="30%" style="margin-right: 30px;">
+    <img src=".image/RPLidar.jpg" width="30%" style="margin-left: 30px;">
 </p>
 
 - Ubuntu 20.04
@@ -25,8 +25,8 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 - Intel Realsense D405
 
 <p align="center" width="100%">
-<img src="./.image/Setting1.png" width="30%">
-<img src="./.image/Setting2.jpg)" width="30%">
+    <img src=".image/Setting1.png" width="30%" style="margin-right: 30px;">
+    <img src=".image/Setting2.jpg" width="30%" style="margin-left: 30px;">
 </p>
 
 위와 같이 라이다와 카메라를 위치시켰다.
@@ -76,8 +76,8 @@ checkerboard를 이용해서 calibration한 결과를 시각화 한 사진
 이를 solvePNP 함수를 통해서 회전행렬(R)과 변환행렬(t)를 구할 수 있다.
 
 <p align="center" width="100%">
-<img src="./.image/PNP1_LiDAR.png" width="30%">
-<img src="./.image/PNP1_Camera.png" width="30%">
+<img src="./.image/PNP1_LiDAR.png" width="40%">
+<img src="./.image/PNP1_Camera.png" width="40%">
 </p>
 
 위와 같이 라이다에 해당하는 점을 pixel 좌표와 같이 대응시킨다.
