@@ -22,8 +22,6 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
     <figure>
         <img src="./.image/RPLidar.jpg" width="40%" style="margin-right: 30px;">
         <figcaption>RPLiDAR</figcaption>
-    </figure>
-    <figure>
         <img src="./.image/RealsenseCamera.jpg" width="40%" style="margin-left: 30px;">
         <figcaption>Real Sense Camera</figcaption>
     </figure>
