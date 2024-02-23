@@ -48,8 +48,8 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 ---
 
 <p align="center" width="100%">
-    <img src=".image/coordinate1.png" width="70%">
-    <img src=".image/coordinate2.png" width="70%">
+    <img src=".image/coordinate1.jpg" width="70%">
+    <img src=".image/coordinate2.jpg" width="70%">
 </p>
 
 라이다를 이미지에 투영 시키는 것이 목적이다.
