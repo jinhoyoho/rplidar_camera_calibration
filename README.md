@@ -19,22 +19,20 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 - RPLiDAR S2M1-R2
 - Intel Realsense D405
 
-<p align="center" width="100%">
-    <div style="display: inline-block; margin-right: 30px; text-align: center;">
-        <img src="./.image/RPLidar.jpg" width="30%">
-        <br>
-        RPLidar
-    </div>
-    <div style="display: inline-block; margin-left: 30px; text-align: center;">
-        <img src="./.image/RealsenseCamera.jpg" width="30%">
-        <br>
-        Real Sense Camera
-    </div>
-</p>
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 30px; text-align: center;">
+        <img src="./.image/RPLidar.jpg" width="40%">
+        <figcaption>RPLidar</figcaption>
+    </figure>
+    <figure style="margin-left: 30px; text-align: center;">
+        <img src="./.image/RealsenseCamera.jpg" width="40%">
+        <figcaption>Real Sense Camera</figcaption>
+    </figure>
+</div>
 
 <p align="center" width="100%">
 <img src="./.image/Setting1.png" width="30%">
-<img src="./.image/Setting2.png)" width="30%">
+<img src="./.image/Setting2.jpg)" width="30%">
 </p>
 
 위와 같이 라이다와 카메라를 위치시켰다.
