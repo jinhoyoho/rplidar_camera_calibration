@@ -19,8 +19,8 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 - RPLiDAR S2M1-R2
 - Intel Realsense D405
 <p align="center" width="100%">
-<img src="./.image/RPLidar.jpg" width="40%" style=" display:block;"> LiDAR
-<img src="./.image/RealsenseCamera.jpg" width="40%"> Camera
+<img src="./.image/RPLidar.jpg" width="40%" style=" margin=30px"> 
+<img src="./.image/RealsenseCamera.jpg" width="40%"> 
 </p>
 
 <p align="center" width="100%">
