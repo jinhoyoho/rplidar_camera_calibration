@@ -94,7 +94,7 @@ checkerboard를 이용해서 calibration한 결과를 시각화 한 사진
 
 ### 3. Image에 투영시키기
 
-앞서 언급한 식을 통해서 image 좌표를 구할 수 있다.
+앞서 언급한 식을 통해서 3D world 좌표에 대응되는 image 좌표를 구할 수 있다.
 
 추가적인 작업을 통해서 image에 투영시킨다.
 
