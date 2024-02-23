@@ -1,11 +1,13 @@
 # rplidar_camera_calibration
 
-<<<<<<< HEAD
 ---
 
 2D LiDAR와 Camera calibration을 진행한 코드입니다.
+
 Early fusion 방식을 사용하였습니다.
+
 객체 인지 과정 없이 진행하였습니다.
+
 main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있습니다.
 
 ## 실험 환경
@@ -16,6 +18,10 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 - ROS1 noetic
 - RPLiDAR S2M1-R2
 - Intel Realsense D405
+<p align="center" width="100%">
+<img src="./.image/RPLidar.jpg" width="40%">
+<img src="./.image/RealsenseCamera.jpg" width="40%">
+</p>
 
 ![RPLiDAR](./.image/RPLidar.jpg)
 ![RealSense](./.image/RealsenseCamera.jpg)
@@ -102,9 +108,3 @@ Kaggle을 이용해서 yolov8을 학습시키는 사진
 1. https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration
 2. https://medium.com/@shashankag14/lidar-camera-fusion-a-short-guide-34115a3055da
 3. https://www.youtube.com/watch?v=XRmdUfkIu08&t=66s
-=======
-2D Lidar와 camera를 sensor fusion한 코드입니다.
-cv2.solvepnp를 이용하였습니다.
-
-코드와 README 파일을 수정해서 다시 올리도록 하겠습니다.
->>>>>>> 80c59a581d9d379f0572553989c4dc36b28e58cc
