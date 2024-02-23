@@ -1,6 +1,5 @@
 # rplidar_camera_calibration
 
-<<<<<<< HEAD
 ---
 
 2D LiDAR와 Camera calibration을 진행한 코드입니다.
