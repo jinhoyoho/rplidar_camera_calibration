@@ -19,15 +19,14 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 - RPLiDAR S2M1-R2
 - Intel Realsense D405
 <p align="center" width="100%">
-<img src="./.image/RPLidar.jpg" width="40%">
-<img src="./.image/RealsenseCamera.jpg" width="40%">
+<img src="./.image/RPLidar.jpg" width="40%" style=" display:block;"> LiDAR
+<img src="./.image/RealsenseCamera.jpg" width="40%"> Camera
 </p>
 
-![RPLiDAR](./.image/RPLidar.jpg)
-![RealSense](./.image/RealsenseCamera.jpg)
-
-![Setting](./.image/Setting1.png)
-![Setting](./.image/Setting2.png)
+<p align="center" width="100%">
+<img src="./.image/Setting1.png" width="30%">
+<img src="./.image/Setting2.png)" width="30%">
+</p>
 
 위와 같이 라이다와 카메라를 위치시켰다.
 
