@@ -66,8 +66,8 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 OpenCV와 Checkerboard를 이용해서 구하는 방법을 코드로 작성하였다.
 
 <p align="center" width="100%">
-    <img src=".image/calibration_before.jpg" width="30%">
-    <img src=".image/calibration_after.png" width="30%">
+    <img src=".image/calibration_before.jpg" width="45%">
+    <img src=".image/calibration_after.png" width="45%">
 </p>
 
 checkerboard를 이용해서 calibration한 결과를 시각화 한 사진
