@@ -18,11 +18,18 @@ main.py의 image를 YOLO를 이용한 객체 인지 image로 대체할 수 있�
 - ROS1 noetic
 - RPLiDAR S2M1-R2
 - Intel Realsense D405
+
 <p align="center" width="100%">
-    <img src="./.image/RPLidar.jpg" width="30%" style="margin-right: 10px;"><br>
-    RPLiDAR
-    <img src="./.image/RealsenseCamera.jpg" width="30%" style="margin-left: 10px;"><br>
-    Real Sense Camera
+    <div style="display: inline-block; margin-right: 30px; text-align: center;">
+        <img src="./.image/RPLidar.jpg" width="30%">
+        <br>
+        RPLidar
+    </div>
+    <div style="display: inline-block; margin-left: 30px; text-align: center;">
+        <img src="./.image/RealsenseCamera.jpg" width="30%">
+        <br>
+        Real Sense Camera
+    </div>
 </p>
 
 <p align="center" width="100%">
